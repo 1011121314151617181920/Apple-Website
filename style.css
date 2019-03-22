@@ -1,0 +1,13 @@
+*{     
+font-family: Arial;     
+margin: 0 auto;        
+background-color: #ffffff; 
+}
+
+table{     border-collapse: collapse;  } 
+#header{     
+padding-top: 30px;     
+padding-bottom: 30px;     
+text-align: center;     
+border: 3px solid black; 
+}
